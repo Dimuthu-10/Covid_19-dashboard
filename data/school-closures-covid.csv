@@ -1,0 +1,25 @@
+from,till,nationwide,level,type
+2020-3-13,2020-03-17,1,some levels,education
+2020-03-18,2020-07-05,1,all levels,education
+2020-07-06,2020-07-12,1,some levels,education
+2020-07-13,2020-07-26,1,all levels,education
+2020-07-27,2020-08-19,1,some levels,education
+2020-08-20,2020-10-04,1,recomended,education
+2020-10-05,2020-11-16,1,all levels,education
+2020-11-17,2021-01-10,0,some levels,education
+2021-01-11,2021-03-31,0,all levels,education
+2021-04-13,2021-05-17,1,all levels,education
+2020-03-16,2020-04-21,1,all non essientional,workplaces
+2020-04-22,2020-05-10,1,some sectors,workplaces
+2020-12-14,2021-03-31,0,all non essientional,workplaces
+2021-04-01,2021-05-02,0,some sectors,workplaces
+2021-05-03,2021-05-17,0,all non essientional,workplaces
+2020-01-26,2020-02-23,1,screen arrivals,borders
+2020-02-24,2020-03-13,1,qurentine arrivals,borders
+2020-03-14,2020-03-18,1,ban some regions,borders
+2020-03-19,2020-07-31,1,ban all region,borders
+2020-08-01,2020-11-01,1,screen arrivals,borders
+2020-11-02,2020-12-21,1,ban some regions,borders
+2020-11-22,2021-01-20,1,ban some regions,borders
+2021-01-21,2021-05-03,1,qurentine arrivals,borders
+2021-05-04,2021-05-16,1,ban some regions,borders
